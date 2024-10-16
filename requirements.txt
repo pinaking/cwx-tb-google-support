@@ -1,0 +1,15 @@
+apache_beam==2.57.0
+pg8000==1.31.2
+protobuf==4.25.4
+SQLAlchemy==2.0.31
+google-cloud-alloydb
+google-cloud-alloydb-connector[pg8000]
+google-api-core==2.19.1
+google-apitools==0.5.31
+google-auth==2.32.0
+google-auth-httplib2==0.2.0
+googleapis-common-protos==1.63.2
+grpc-google-iam-v1==0.13.1
+google-cloud-secret-manager
+google-cloud-storage
+vertexai
